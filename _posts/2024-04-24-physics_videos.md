@@ -5,7 +5,7 @@ I think I've discovered in hunting for tricks to format these blog posts a cool 
 ## The IBM Video itself
 Of course, the first one, courtesy of Brian (I found it quite interesting).
 
-[![Bell's Inequality: The weirdest theorem in the world | Nobel Prize 2022](https://img.youtube.com/vi/9OM0jSTeeBg/0.jpg)](https://www.youtube.com/watch?v=9OM0jSTeeBg)
+[![Bell's Inequality: The weirdest theorem in the world Nobel Prize 2022](https://img.youtube.com/vi/9OM0jSTeeBg/0.jpg)](https://www.youtube.com/watch?v=9OM0jSTeeBg)
 
 ## Some Semiconductor Physics
 Just an interesting video on semiconductors I came across the other day
