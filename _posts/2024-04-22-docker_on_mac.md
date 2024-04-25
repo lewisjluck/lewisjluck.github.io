@@ -1,7 +1,7 @@
 # Docker on MacOS - an investigation and eventual surrender
 This is a comprehensive documentation of my troubles with docker on MacOS, inspired by an EdStem post I wrote on this topic.
 
-> :warning: **Spoiler Alert:** This blog post does in fact end in *abject failure*.
+> 🚨: **Spoiler Alert:** This blog post does in fact end in *abject failure*.
 
 I started by following Brian's examples in his lecture on Go and setting up devcontainers. One first difference was I was prompted to install Docker Desktop for Mac, which I did. The `Rebuild and reopen in container` then worked. 
 
