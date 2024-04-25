@@ -46,7 +46,7 @@ Though seemingly equivalent, it seems weird that that specific functionality, re
 ## Issue Number Two
 This one was seriously weird. Essentially, once I got the testing batch working, the images were displaying very strangely. See below. 
 
-![](/images/weird_images "weird distorted images")
+![](/images/weird_images.png "weird distorted images")
 
 To fit it, I had to *train a model on the testing set itself* despite not using it at all. Super weird. I think there's something either buggy in fastai (or something I'm missing) that's making the images not be processed/be over processed and then corrected at the end of training? It needs further digging. 
 
